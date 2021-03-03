@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="15.0.2" class="java.beans.XMLDecoder">
+ <object class="shust.team.Middle" id="Middle0">
+  <void class="shust.team.Human" method="getField">
+   <string>name</string>
+   <void method="set">
+    <object idref="Middle0"/>
+    <string>Bobby</string>
+   </void>
+  </void>
+  <void class="shust.team.Human" method="getField">
+   <string>age</string>
+   <void method="set">
+    <object idref="Middle0"/>
+    <int>25</int>
+   </void>
+  </void>
+  <void class="shust.team.Human" method="getField">
+   <string>salary</string>
+   <void method="set">
+    <object idref="Middle0"/>
+    <int>1400</int>
+   </void>
+  </void>
+ </object>
+</java>

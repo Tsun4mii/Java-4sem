@@ -9,6 +9,10 @@ public class Middle extends Human {
         this.age = age;
         this.salary = salary;
     }
+    public Middle()
+    {
+
+    }
     public void Work(){
         System.out.println(this.name + " working on the project");
     }
